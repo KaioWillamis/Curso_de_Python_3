@@ -1,0 +1,10 @@
+"""
+Operadores de comparação (relacionais)
+OP     Significado        Exemplo (True)
+>      Maior              2 > 1
+>=     Maior ou igual     2 >= 2
+<      Menor              1 < 2
+<=     Menor ou igual     2 <= 2
+==     igual              'a' == 'a'
+!=     diferente          'a' != 'b'
+"""
